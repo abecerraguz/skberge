@@ -1,0 +1,111 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?9q1bn0');
+  src:  url('fonts/icomoon.eot?9q1bn0#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?9q1bn0') format('truetype'),
+    url('fonts/icomoon.woff?9q1bn0') format('woff'),
+    url('fonts/icomoon.svg?9q1bn0#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-check-sparex:before {
+  content: "\e911";
+  color: #ce3338;
+}
+.icon-delivery-sparex:before {
+  content: "\e912";
+  color: #ce3338;
+}
+.icon-team-support:before {
+  content: "\e913";
+  color: #ce3338;
+}
+.icon-storage-box:before {
+  content: "\e910";
+  color: #0b0;
+}
+.icon-hrs:before {
+  content: "\e900";
+  color: #0b0;
+}
+.icon-check-ok:before {
+  content: "\e901";
+  color: #0b0;
+}
+.icon-delivery-green:before {
+  content: "\e902";
+  color: #0b0;
+}
+.icon-hands-box:before {
+  content: "\e903";
+  color: #0b0;
+}
+.icon-numero-1 .path1:before {
+  content: "\e904";
+  color: rgb(72, 84, 91);
+}
+.icon-numero-1 .path2:before {
+  content: "\e905";
+  margin-left: -0.9931640625em;
+  color: rgb(255, 255, 255);
+}
+.icon-numero-2 .path1:before {
+  content: "\e906";
+  color: rgb(72, 84, 91);
+}
+.icon-numero-2 .path2:before {
+  content: "\e907";
+  margin-left: -0.9931640625em;
+  color: rgb(255, 255, 255);
+}
+.icon-numero-3 .path1:before {
+  content: "\e908";
+  color: rgb(72, 84, 91);
+}
+.icon-numero-3 .path2:before {
+  content: "\e909";
+  margin-left: -0.9931640625em;
+  color: rgb(255, 255, 255);
+}
+.icon-numero-4 .path1:before {
+  content: "\e90a";
+  color: rgb(72, 84, 91);
+}
+.icon-numero-4 .path2:before {
+  content: "\e90b";
+  margin-left: -0.9931640625em;
+  color: rgb(255, 255, 255);
+}
+.icon-delivery:before {
+  content: "\e90c";
+  color: #ce3338;
+}
+.icon-box:before {
+  content: "\e90d";
+  color: #ce3338;
+}
+.icon-check:before {
+  content: "\e90e";
+  color: #ce3338;
+}
+.icon-email:before {
+  content: "\e90f";
+  color: #ce3338;
+}
